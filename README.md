@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MrDiva01
+- 👀 I’m interested in singing,dancing, music, arts, acting, reading, and web developing and designing...
+- 🌱 I’m currently learning how to create my own stylish website ...
+- 📫 How to reach me you can contact me through facebook Timothy Noel Romares ...
+
+<!---
+MrDiva01/MrDiva01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
